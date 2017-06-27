@@ -2305,7 +2305,7 @@
 				}
 
 					#me .pic img {
-						position: relative;
+						position: absolute;
 						display: block;
 						border-radius:5px;
 						height: 100%;
