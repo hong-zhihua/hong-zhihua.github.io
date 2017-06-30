@@ -28,7 +28,13 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
-
+/* background-image */
+	.link_row .back-back:nth-child(0) page_title{
+		background-image: url(http://onh0umlhz.bkt.clouddn.com/miccall0504shadrJC_header.jpg)
+	}
+	.link_row .back-back:nth-child(1) page_title{
+		background-image: url(http://onh0umlhz.bkt.clouddn.com/0519laracasts.png)
+	}
 /* Wrapper */
 
 	#wrapper {
