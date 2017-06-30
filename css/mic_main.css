@@ -29,11 +29,23 @@
 		-webkit-text-size-adjust: none;
 	}
 /* background-image */
-	.link_row section.link_box:nth-child(0) .page_title{
+	.link_row .back-back:nth-of-type(1) .page_title{
 		background-image: url("http://onh0umlhz.bkt.clouddn.com/miccall0504shadrJC_header.jpg")
 	}
-	.link_row section.link_box:nth-child(1) .page_title{
+	.link_row .back-back:nth-of-type(2) .page_title{
 		background-image: url("http://onh0umlhz.bkt.clouddn.com/0519laracasts.png")
+	}
+	.link_row .back-back:nth-of-type(3) .page_title{
+		background-image: url("http://onh0umlhz.bkt.clouddn.com/c.png")
+	}
+	.link_row .back-back:nth-of-type(4) .page_title{
+		background-image: url("http://onh0umlhz.bkt.clouddn.com/shader.jpg")
+	}
+	.link_row .back-back:nth-of-type(5) .page_title{
+		background-image: url("http://onh0umlhz.bkt.clouddn.com/miccall050502Graph_view.jpg")
+	}
+	.link_row .back-back:nth-of-type(6) .page_title{
+		background-image: url("http://onh0umlhz.bkt.clouddn.com/miccall0504Union_view.jpg")
 	}
 /* Wrapper */
 
