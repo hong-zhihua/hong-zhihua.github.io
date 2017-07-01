@@ -30,7 +30,7 @@
 	}
 /* background-image */
 	.link_row .back-back:nth-of-type(1) .page_title{
-		background-image: url("http://onh0umlhz.bkt.clouddn.com/miccall0504shadrJC_header.jpg")
+		background-image: url("/images/hero.jpg")
 	}
 	.link_row .back-back:nth-of-type(2) .page_title{
 		background-image: url("http://onh0umlhz.bkt.clouddn.com/0519laracasts.png")
