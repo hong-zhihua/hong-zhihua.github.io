@@ -4481,3 +4481,6 @@
 	}
 
 
+#main h1,h2,h3{
+	padding: 0 20px!important;
+}
